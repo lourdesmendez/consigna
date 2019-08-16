@@ -1,7 +1,7 @@
 # Parcial
 
 Consigna:
-https://docs.google.com/document/d/1NJ4MQ7ZHX9Xx6IxrMlvoLl5M6Ke3r6tEywSMu_cRdkA/edit?usp=sharing
+https://docs.google.com/document/d/1oN9tI0wit2QIolXO5ZW_fllM_cKs3kFFerbY1N6_OYE/edit?usp=sharing
 
 Estudiante:
 ...
